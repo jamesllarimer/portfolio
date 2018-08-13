@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "portfolio-d7c8e",
+    "staging": "portfolio-staging-999d5"
+  }
+}
